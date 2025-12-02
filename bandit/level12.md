@@ -21,9 +21,38 @@ Now that we know it is an ASCII text file, we can try to print it.
   
 We can see that it's not a normal ASCII text file, but a HexDump file.  
 Now we can work on it, trying to revert it to its previous state.  
+
+<details>
+  <summary> Deepen the Hexdump files </summary>
+  
+> Hexadecimal is a base-16 numbering system.
+> It uses 16 distinct symbols: 0-9 to represent values zero to nine, and A-F to represent values ten to fifteen.
+> Hexadecimal is commonly used in computing because it provides a more compact and human - readable way to represent binary data compared to binary itself.
+> I took this definition from https://linuxvox.com/blog/hexdump-linux/ - which i suggest to understand what a hexdump is and how it works.
+</details>
+
 From the screen below, we can guess that the previous file could be a **.bin** file, but to be sure, let's proceed and reverse it.
   
 <img width="682" height="85" alt="immagine" src="https://github.com/user-attachments/assets/a4c5e783-ed66-436b-b641-adc0822b6075" />  
+  
+To revert a hexdump  
+
+<img width="1043" height="155" alt="immagine" src="https://github.com/user-attachments/assets/6263ed9c-b216-48d2-bdf7-33c97c64edfc" />
+
+
+<img width="1046" height="211" alt="immagine" src="https://github.com/user-attachments/assets/52e5c6db-feab-4976-9bd4-2c16f697677f" />
+
+<img width="648" height="135" alt="immagine" src="https://github.com/user-attachments/assets/d595ff11-24a5-4924-8ef3-28a49325e6e9" />
+
+<img width="590" height="229" alt="immagine" src="https://github.com/user-attachments/assets/43c1571b-58c0-4e59-a1cb-ccb05ef8a78e" />
+
+<img width="663" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7a974b30-2fd1-4216-ab72-1e4ea21e2c87" />
+
+
+
+
+
+
 
 
 
