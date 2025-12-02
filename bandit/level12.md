@@ -70,6 +70,12 @@ To revert a hexdump
 
 <img width="662" height="174" alt="immagine" src="https://github.com/user-attachments/assets/c58705b1-50a3-466f-81c9-18c4bcb67690" />
 
+<img width="689" height="97" alt="immagine" src="https://github.com/user-attachments/assets/fb0f1bf9-0bb8-4ee7-b12c-2d5925259d25" />
+
+
+
+
+
 
 
 
