@@ -54,6 +54,16 @@ To revert a hexdump
 
 <img width="587" height="172" alt="immagine" src="https://github.com/user-attachments/assets/aa80280a-7b00-4f44-b447-ae27cdce8c83" />
 
+<img width="659" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7070c011-011a-4201-8af0-dd1ed7097bc1" />
+
+<img width="604" height="99" alt="immagine" src="https://github.com/user-attachments/assets/7926b188-e6d3-4dfb-a36f-ddf80b372f6c" />
+
+
+
+
+
+
+
 
 
 
