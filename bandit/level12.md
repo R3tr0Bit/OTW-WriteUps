@@ -72,6 +72,18 @@ To revert a hexdump
 
 <img width="689" height="97" alt="immagine" src="https://github.com/user-attachments/assets/fb0f1bf9-0bb8-4ee7-b12c-2d5925259d25" />
 
+<img width="1045" height="97" alt="immagine" src="https://github.com/user-attachments/assets/3e84519e-cfcd-4696-b151-088ea8048cba" />
+
+<img width="739" height="117" alt="immagine" src="https://github.com/user-attachments/assets/1667d4b9-01ab-49a2-987d-b65c7d83fd3a" />
+
+<img width="713" height="97" alt="immagine" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />
+
+<img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />
+
+
+
+
+
 
 
 
