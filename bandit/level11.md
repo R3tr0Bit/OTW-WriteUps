@@ -78,76 +78,30 @@ Now, let's analyze the second: `vi` or `vim`.
 <img width="742" height="393" alt="image" src="https://github.com/user-attachments/assets/6bb5684e-ed94-4e35-b7a3-bbebc6065d6e" />  
   
 What is vi?  
-Vi or Vim it's a text editor that allows you do things, a lot of things.  
+Vi or Vim is a text editor that allows you to do things — a lot of things.  
 I’ll leave it to you to explore this beautiful text editor on your own.  
 For now, let’s focus on how to use its features to perform the reverse operation of ROT13.  
     
-Once opened with command `vim data.txt` we will this in our terminal:
+Once opened with the command `vim data.txt`, we will see this in our terminal:
    
 <img width="1047" height="441" alt="immagine" src="https://github.com/user-attachments/assets/8152f24d-d29b-4852-8fb1-dbc622427841" />
   
-Of course, as we can see, the file will be in *readonly* mode.  
-Once inside, we can type this combination of keys: "**ggg?G**" 
+As we can see, the file will be in *readonly* mode.  
+Once inside, we can type this combination of keys: **ggg?G**.
   
 <details> 
   <summary> Vi/Vim Cheat sheet </summary> 
  
-> Vi or Vim have a lot of shotcut to fastener the work inside a file.   
-> For example with **ggg?G** as seen a while before, we can do the ROT13 cypher. 
-> Take **G** or **gg**, with the first one we can navigate directly to the end of a file while with the second we can go directly to the start 
-> However, i cannot write every shortcut here, so visit this page https://vim.rtorr.com/ or google it 
+> Vi or Vim has a lot of shortcuts to speed up our work inside a file.  
+> For example, with **ggg?G**, we can perform the ROT13 cipher.  
+> Take **G** or **gg**: with the first one we can navigate directly to the end of a file, while with the second we can go directly to the start.  
+> However, I cannot write every shortcut here, so visit this page: https://vim.rtorr.com/ or just google it.
 </details> 
  
-This will do for us the ROT13 cypher 
+This will perform the ROT13 cipher for us.
  
 <img width="1048" height="443" alt="immagine" src="https://github.com/user-attachments/assets/eaad9ce4-71fa-4e21-80a9-2d085c8da2a4" /> 
   
-Let's grab the password and go to the next level! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Let's grab the password and go to the next level!
 
 
