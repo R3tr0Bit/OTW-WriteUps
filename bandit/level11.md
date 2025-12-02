@@ -86,18 +86,23 @@ Once opened with command `vim data.txt` we will this in our terminal:
    
 <img width="1047" height="441" alt="immagine" src="https://github.com/user-attachments/assets/8152f24d-d29b-4852-8fb1-dbc622427841" />
   
-Of course, as we can see, the file will be in *readonly* mode. 
-Once inside, we can type this combination of keys: "**ggg?G**"
+Of course, as we can see, the file will be in *readonly* mode.  
+Once inside, we can type this combination of keys: "**ggg?G**" 
+  
+<details> 
+  <summary> Vi/Vim Cheat sheet </summary> 
  
-<details>
-  <summary>Vi/Vim Cheat sheet/summary>
-
-> Vi or Vim have a lot of shotcut to fastener the work inside a file.  
-> For example with **ggg?G** as seen a while before, we can do the ROT13 cypher.
-> Take **G** or **gg**, with the first one we can navigate directly to the end of a file while with the second we can go directly to the start
-> However, i cannot write every shortcut here, so visit this page https://vim.rtorr.com/ or google it
-</details>
-
+> Vi or Vim have a lot of shotcut to fastener the work inside a file.   
+> For example with **ggg?G** as seen a while before, we can do the ROT13 cypher. 
+> Take **G** or **gg**, with the first one we can navigate directly to the end of a file while with the second we can go directly to the start 
+> However, i cannot write every shortcut here, so visit this page https://vim.rtorr.com/ or google it 
+</details> 
+ 
+This will do for us the ROT13 cypher 
+ 
+<img width="1048" height="443" alt="immagine" src="https://github.com/user-attachments/assets/eaad9ce4-71fa-4e21-80a9-2d085c8da2a4" /> 
+  
+Let's grab the password and go to the next level! 
 
 
 
