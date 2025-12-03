@@ -44,9 +44,26 @@ In the screenshot below, you can see that the command prints the entire output (
 So what we can do instead is redirect the output of the command to a file.  
 In this example, I redirected the output to *first_file*.
 
-<img width="1046" height="211" alt="immagine" src="https://github.com/user-attachments/assets/52e5c6db-feab-4976-9bd4-2c16f697677f" />
+If we run `file` on it, we can see that our earlier guess was only partially correct.  
+The name includes a **.bin** extension, but the actual format is ***gzip compressed data***.
+
+<img width="1046" height="211" alt="image" src="https://github.com/user-attachments/assets/52e5c6db-feab-4976-9bd4-2c16f697677f" />
+
+Since the `gzip` command can only extract *.gz* files, we need to rename *first_file* to *first_file.gz* using `mv`.
 
 <img width="648" height="135" alt="immagine" src="https://github.com/user-attachments/assets/d595ff11-24a5-4924-8ef3-28a49325e6e9" />
+
+Once we've renamed it with `mv`, we can use `gzip -d` to extract the file, and then run `file` again to check what kind of file we’re dealing with now.
+
+We'll need to repeat this process for all the level:
+
+  - Use `file` to figure out the file type  
+  - Rename the file by adding the correct extension relative to the file type
+  - Extract it using the appropriate command  
+  - Go back to step one  
+
+It’s a bit repetitive, but as mentioned in the description, this file has been compressed multiple times, so this is basically what we have to do.
+
 
 <img width="590" height="229" alt="immagine" src="https://github.com/user-attachments/assets/43c1571b-58c0-4e59-a1cb-ccb05ef8a78e" />
 
@@ -83,6 +100,7 @@ In this example, I redirected the output to *first_file*.
 <img width="713" height="97" alt="immagine" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />
 
 <img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />
+
 
 
 
