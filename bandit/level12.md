@@ -72,7 +72,7 @@ Rename to **.bz2**
 <img width="663" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7a974b30-2fd1-4216-ab72-1e4ea21e2c87" />  
   
 Extract it with **bzip2 -d** command and again...   
-**gzip2**...  
+**gzip**...  
   
 <img width="1045" height="174" alt="immagine" src="https://github.com/user-attachments/assets/215c94f9-bf83-47cd-902e-1e9fd8432e22" />  
   
@@ -98,11 +98,11 @@ Again...
   
 <img width="666" height="173" alt="immagine" src="https://github.com/user-attachments/assets/d1a4160c-e52a-4d9b-b473-41450a7e2860" />  
   
-Again...  
-  
+At this point we have to do the pattern again...
+
 <img width="606" height="97" alt="immagine" src="https://github.com/user-attachments/assets/37b59fbd-0428-40e5-8dda-161d597a5a86" />  
   
-Again...  
+And again...  
   
 <img width="529" height="79" alt="immagine" src="https://github.com/user-attachments/assets/46c50156-4c9b-4916-b5f5-1fe8b8fdf4b5" />  
   
@@ -110,7 +110,7 @@ Again...
   
 <img width="653" height="115" alt="immagine" src="https://github.com/user-attachments/assets/7e68a853-54fc-4ca2-a246-2c072811966b" />  
   
-Again...  
+Now guess what? Again...  
   
 <img width="609" height="98" alt="immagine" src="https://github.com/user-attachments/assets/d6be3a54-5086-4363-ab77-a1b8dc5e356f" />  
   
@@ -122,7 +122,8 @@ Again...
   
 <img width="689" height="97" alt="immagine" src="https://github.com/user-attachments/assets/fb0f1bf9-0bb8-4ee7-b12c-2d5925259d25" />  
   
-Again...  
+In this point of the level instead you have to do a particular command:
+`Again...`
   
 <img width="1045" height="97" alt="immagine" src="https://github.com/user-attachments/assets/3e84519e-cfcd-4696-b151-088ea8048cba" />  
   
@@ -133,10 +134,12 @@ Again...
 And again...  
   
 <img width="713" height="97" alt="immagine" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />  
-  
+
+In the end of the level we obtain an ASCII Text that trying to print its content give us the password for the next level! (Finally!!)
   
 <img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />  
   
+
 
 
 
