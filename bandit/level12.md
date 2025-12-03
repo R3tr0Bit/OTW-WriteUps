@@ -71,25 +71,26 @@ Rename to **.bz2**
   
 <img width="663" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7a974b30-2fd1-4216-ab72-1e4ea21e2c87" />  
   
-And again extract it with **bzip2 -d** command.  
+Extract it with **bzip2 -d** command and again...   
+**gzip2**...  
   
 <img width="1045" height="174" alt="immagine" src="https://github.com/user-attachments/assets/215c94f9-bf83-47cd-902e-1e9fd8432e22" />  
   
-Ok, let's start again...   
-**gzip2**...
+Rename to **.gz**...  
   
 <img width="650" height="99" alt="immagine" src="https://github.com/user-attachments/assets/2be0958e-3da1-494b-9f1a-dc297c8bc0c9" />  
   
-Rename to **.gz**...  
+And `file` to see the next file type.   
+
   
 <img width="587" height="172" alt="immagine" src="https://github.com/user-attachments/assets/aa80280a-7b00-4f44-b447-ae27cdce8c83" />  
-  
-And `file` to see the next file type.   
-  
-<img width="659" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7070c011-011a-4201-8af0-dd1ed7097bc1" />  
-  
+
 Here, doing the same exact procedure as before we get a **POSIX tar archive**.  
 The patter is the same.  
+  
+<img width="659" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7070c011-011a-4201-8af0-dd1ed7097bc1" />  
+
+Again...
   
 <img width="604" height="99" alt="immagine" src="https://github.com/user-attachments/assets/7926b188-e6d3-4dfb-a36f-ddf80b372f6c" />  
   
@@ -136,6 +137,7 @@ And again...
   
 <img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />  
   
+
 
 
 
