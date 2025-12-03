@@ -35,10 +35,14 @@ From the screen below, we can guess that the previous file could be a **.bin** f
   
 <img width="682" height="85" alt="immagine" src="https://github.com/user-attachments/assets/a4c5e783-ed66-436b-b641-adc0822b6075" />  
   
-To revert a hexdump  
+To revert a hexdump, we can use the command `xxd -r filename`.
 
-<img width="1043" height="155" alt="immagine" src="https://github.com/user-attachments/assets/6263ed9c-b216-48d2-bdf7-33c97c64edfc" />
+In the screenshot below, you can see that the command prints the entire output (from the previous file) to the standard output. This isn’t ideal, because it makes it harder to work with.
 
+<img width="1043" height="155" alt="image" src="https://github.com/user-attachments/assets/6263ed9c-b216-48d2-bdf7-33c97c64edfc" />
+
+So what we can do instead is redirect the output of the command to a file.  
+In this example, I redirected the output to *first_file*.
 
 <img width="1046" height="211" alt="immagine" src="https://github.com/user-attachments/assets/52e5c6db-feab-4976-9bd4-2c16f697677f" />
 
@@ -79,6 +83,7 @@ To revert a hexdump
 <img width="713" height="97" alt="immagine" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />
 
 <img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />
+
 
 
 
