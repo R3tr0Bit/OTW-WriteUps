@@ -110,7 +110,7 @@ Again…
 
 <img width="653" height="115" alt="image" src="https://github.com/user-attachments/assets/7e68a853-54fc-4ca2-a246-2c072811966b" />  
   
-And—guess what?—again:
+Aaaand guess what? Again!
 
 <img width="609" height="98" alt="image" src="https://github.com/user-attachments/assets/d6be3a54-5086-4363-ab77-a1b8dc5e356f" />  
   
@@ -142,6 +142,7 @@ If we print its contents, we get the password for the next level! (Finally!!)
 <img width="539" height="134" alt="image" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />
 
   
+
 
 
 
