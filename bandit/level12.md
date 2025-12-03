@@ -67,9 +67,15 @@ It’s a bit repetitive, but as mentioned in the description, this file has been
 
 <img width="590" height="229" alt="immagine" src="https://github.com/user-attachments/assets/43c1571b-58c0-4e59-a1cb-ccb05ef8a78e" />
 
+For example, once extracted, we have **bzip2 compressed data**.
+
 <img width="663" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7a974b30-2fd1-4216-ab72-1e4ea21e2c87" />
 
+Rename to **.bz2**
+
 <img width="1045" height="174" alt="immagine" src="https://github.com/user-attachments/assets/215c94f9-bf83-47cd-902e-1e9fd8432e22" />
+
+And again extract it with **bzip2 -d** command.
 
 <img width="650" height="99" alt="immagine" src="https://github.com/user-attachments/assets/2be0958e-3da1-494b-9f1a-dc297c8bc0c9" />
 
@@ -100,6 +106,7 @@ It’s a bit repetitive, but as mentioned in the description, this file has been
 <img width="713" height="97" alt="immagine" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />
 
 <img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />
+
 
 
 
