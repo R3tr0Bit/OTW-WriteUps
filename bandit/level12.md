@@ -64,81 +64,85 @@ We'll need to repeat this process for all the level:
 
 It’s a bit repetitive, but as mentioned in the description, this file has been compressed multiple times, so this is basically what we have to do.
 
-For example, once extracted, we have **bzip2 compressed data**.
-<img width="590" height="229" alt="immagine" src="https://github.com/user-attachments/assets/43c1571b-58c0-4e59-a1cb-ccb05ef8a78e" />
-  
-Rename to **.bz2**
-  
-<img width="663" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7a974b30-2fd1-4216-ab72-1e4ea21e2c87" />  
-  
-Extract it with **bzip2 -d** command and again...   
-**gzip**...  
-  
-<img width="1045" height="174" alt="immagine" src="https://github.com/user-attachments/assets/215c94f9-bf83-47cd-902e-1e9fd8432e22" />  
-  
-Rename to **.gz**...  
-  
-<img width="650" height="99" alt="immagine" src="https://github.com/user-attachments/assets/2be0958e-3da1-494b-9f1a-dc297c8bc0c9" />  
-  
-And `file` to see the next file type.   
+For example, once extracted, we get **bzip2 compressed data**.
 
+<img width="590" height="229" alt="image" src="https://github.com/user-attachments/assets/43c1571b-58c0-4e59-a1cb-ccb05ef8a78e" />
   
-<img width="587" height="172" alt="immagine" src="https://github.com/user-attachments/assets/aa80280a-7b00-4f44-b447-ae27cdce8c83" />  
+Rename it to **.bz2**:
 
-Here, doing the same exact procedure as before we get a **POSIX tar archive**.  
-The patter is the same.  
+<img width="663" height="135" alt="image" src="https://github.com/user-attachments/assets/7a974b30-2fd1-4216-ab72-1e4ea21e2c87" />  
   
-<img width="659" height="135" alt="immagine" src="https://github.com/user-attachments/assets/7070c011-011a-4201-8af0-dd1ed7097bc1" />  
+Extract it with the `bzip2 -d` command and…  
+we’re back to **gzip**.
 
-Again...
+<img width="1045" height="174" alt="image" src="https://github.com/user-attachments/assets/215c94f9-bf83-47cd-902e-1e9fd8432e22" />  
   
-<img width="604" height="99" alt="immagine" src="https://github.com/user-attachments/assets/7926b188-e6d3-4dfb-a36f-ddf80b372f6c" />  
-  
-Again...  
-  
-<img width="666" height="173" alt="immagine" src="https://github.com/user-attachments/assets/d1a4160c-e52a-4d9b-b473-41450a7e2860" />  
-  
-At this point we have to do the pattern again...
+So we rename it to **.gz** again:
 
-<img width="606" height="97" alt="immagine" src="https://github.com/user-attachments/assets/37b59fbd-0428-40e5-8dda-161d597a5a86" />  
+<img width="650" height="99" alt="image" src="https://github.com/user-attachments/assets/2be0958e-3da1-494b-9f1a-dc297c8bc0c9" />  
   
-And again...  
+Then run `file` to check the next file type:
+
+<img width="587" height="172" alt="image" src="https://github.com/user-attachments/assets/aa80280a-7b00-4f44-b447-ae27cdce8c83" />  
+
+Doing the same procedure again gives us a **POSIX tar archive**.  
+Same pattern as before.
+
+<img width="659" height="135" alt="image" src="https://github.com/user-attachments/assets/7070c011-011a-4201-8af0-dd1ed7097bc1" />  
+
+Again…
+
+<img width="604" height="99" alt="image" src="https://github.com/user-attachments/assets/7926b188-e6d3-4dfb-a36f-ddf80b372f6c" />  
   
-<img width="529" height="79" alt="immagine" src="https://github.com/user-attachments/assets/46c50156-4c9b-4916-b5f5-1fe8b8fdf4b5" />  
+And again…
+
+<img width="666" height="173" alt="image" src="https://github.com/user-attachments/assets/d1a4160c-e52a-4d9b-b473-41450a7e2860" />  
+
+At this point we just repeat the same pattern:
+
+<img width="606" height="97" alt="image" src="https://github.com/user-attachments/assets/37b59fbd-0428-40e5-8dda-161d597a5a86" />  
   
-Again...  
+And again…
+
+<img width="529" height="79" alt="image" src="https://github.com/user-attachments/assets/46c50156-4c9b-4916-b5f5-1fe8b8fdf4b5" />  
   
-<img width="653" height="115" alt="immagine" src="https://github.com/user-attachments/assets/7e68a853-54fc-4ca2-a246-2c072811966b" />  
+Again…
+
+<img width="653" height="115" alt="image" src="https://github.com/user-attachments/assets/7e68a853-54fc-4ca2-a246-2c072811966b" />  
   
-Now guess what? Again...  
+And—guess what?—again:
+
+<img width="609" height="98" alt="image" src="https://github.com/user-attachments/assets/d6be3a54-5086-4363-ab77-a1b8dc5e356f" />  
   
-<img width="609" height="98" alt="immagine" src="https://github.com/user-attachments/assets/d6be3a54-5086-4363-ab77-a1b8dc5e356f" />  
+Again…
+
+<img width="662" height="174" alt="image" src="https://github.com/user-attachments/assets/c58705b1-50a3-466f-81c9-18c4bcb67690" />  
   
-Again...  
+And again…
+
+<img width="689" height="97" alt="image" src="https://github.com/user-attachments/assets/fb0f1bf9-0bb8-4ee7-b12c-2d5925259d25" />  
   
-<img width="662" height="174" alt="immagine" src="https://github.com/user-attachments/assets/c58705b1-50a3-466f-81c9-18c4bcb67690" />  
-  
-Again...  
-  
-<img width="689" height="97" alt="immagine" src="https://github.com/user-attachments/assets/fb0f1bf9-0bb8-4ee7-b12c-2d5925259d25" />  
-  
-In this point of the level instead you have to do a particular command:
+At this point, the level requires a slightly different command:
+
 `Again...`
-  
-<img width="1045" height="97" alt="immagine" src="https://github.com/user-attachments/assets/3e84519e-cfcd-4696-b151-088ea8048cba" />  
-  
-Again...  
-  
-<img width="739" height="117" alt="immagine" src="https://github.com/user-attachments/assets/1667d4b9-01ab-49a2-987d-b65c7d83fd3a" />  
-  
-And again...  
-  
-<img width="713" height="97" alt="immagine" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />  
 
-In the end of the level we obtain an ASCII Text that trying to print its content give us the password for the next level! (Finally!!)
+<img width="1045" height="97" alt="image" src="https://github.com/user-attachments/assets/3e84519e-cfcd-4696-b151-088ea8048cba" />  
   
-<img width="539" height="134" alt="immagine" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />  
+And again…
+
+<img width="739" height="117" alt="image" src="https://github.com/user-attachments/assets/1667d4b9-01ab-49a2-987d-b65c7d83fd3a" />  
   
+And yes… again:
+
+<img width="713" height="97" alt="image" src="https://github.com/user-attachments/assets/0c87f6d7-57fc-4d1f-8db4-cc79bb012c57" />  
+
+At the very end of the level, we finally obtain an ASCII text file.  
+If we print its contents, we get the password for the next level! (Finally!!)
+
+<img width="539" height="134" alt="image" src="https://github.com/user-attachments/assets/ad17d5dd-87d5-49c0-8a2c-96091ac302dc" />
+
+  
+
 
 
 
