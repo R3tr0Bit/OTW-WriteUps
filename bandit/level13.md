@@ -33,11 +33,11 @@ Using the following command, we can connect to the server:
 `ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private`
 
 <details>
-  <summary>Note</summary>
+  <summary> *** Note *** </summary>
 
-> The filename of the key can be anything you want, but using a meaningful name makes things easier.  
-> I had to log out from bandit13 and create the file locally because you cannot SSH into another server **from inside** bandit13 because this is restricted by the server's rules.  
-> Also keep in mind that the **private** key on your machine must have permissions set to `600`, while the **public** key should be `644`.
+> - The filename of the key can be anything you want, but using a meaningful name makes things easier.  
+> - I had to log out from bandit13 and create the file locally because you cannot SSH into another server **from inside** bandit13 because this is restricted by the server's rules.  
+> - Also keep in mind that the **private** key on your machine must have permissions set to `600`, while the **public** key should be `644`.
 </details>
 
 Now, using the command above, we can connect to bandit14.  
@@ -46,6 +46,7 @@ Once inside, we can print the content of ***/etc/bandit_pass/bandit14***:
 <img width="487" height="79" alt="image" src="https://github.com/user-attachments/assets/06b5d910-f5f5-445c-a09d-b531042a25e0" />
 
 And here we go, we have the password for the next level!
+
 
 
 
