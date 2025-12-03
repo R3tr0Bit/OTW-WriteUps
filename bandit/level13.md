@@ -18,6 +18,10 @@ In this level, running `ls` shows a file named **sshkey.private**:
 > If you want to explore the topic more deeply, look up tutorials or documentation online there’s plenty of good material out there.
 </details>
 
+Basically, this private key allow us to login directly in the server.
+First things to do is create a file in our computer and save the key got earlier.
+
+
 
 
 
